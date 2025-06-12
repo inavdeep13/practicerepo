@@ -1,3 +1,7 @@
 # practicerepo
 
-adding index file
+This is chat application 
+
+emojis 
+vibrant 
+dark theme 
